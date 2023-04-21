@@ -7,8 +7,8 @@ resources:
 
 variables:
   azureServiceConnection: 'azure-connection'
-  subscriptionId: 'YOUR-SUBSCRIPTION-ID'
-  resourceGroup: 'rg-az400-container-NAME'
+  subscriptionId: 'eshoponweb-ci-docker.yml'
+  resourceGroup: 'rg-az400-container-DUPA'
   location: 'westeurope'
 
 stages:
