@@ -7,7 +7,7 @@ resources:
 
 variables:
   azureServiceConnection: 'azure-connection'
-  subscriptionId: 'eshoponweb-ci-docker.yml'
+  subscriptionId: 'fdcd932c-103f-460b-833e-59a70bd79e17'
   resourceGroup: 'rg-az400-container-DUPA'
   location: 'westeurope'
 
