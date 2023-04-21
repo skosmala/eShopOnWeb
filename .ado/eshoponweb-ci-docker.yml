@@ -8,7 +8,7 @@ resources:
 variables:
   azureServiceConnection: 'azure-connection'
   subscriptionId: 'fdcd932c-103f-460b-833e-59a70bd79e17'
-  resourceGroup: 'rg-az400-container-DUPA'
+  resourceGroup: 'rg-az400-eshopeonweb-DUPA'
   location: 'westeurope'
 
 stages:
